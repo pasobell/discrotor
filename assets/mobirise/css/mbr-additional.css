@@ -1404,6 +1404,10 @@ a {
   padding: 12px 35px;
   line-height: 1.0625;
 }
+.cid-rZqakGdhKi .card .wrapper .mbr-list .list,
+.cid-rZqakGdhKi .card .wrapper .mbr-section-btn UL {
+  text-align: left;
+}
 .cid-rZqakYmFVv {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1478,6 +1482,9 @@ a {
   background-color: #dfe3e8;
 }
 .cid-rZqakYmFVv .card .wrapper .mbr-section-title {
+  text-align: left;
+}
+.cid-rZqakYmFVv .card .wrapper .mbr-text {
   text-align: left;
 }
 .cid-rZqalB3CUR {
@@ -1658,6 +1665,10 @@ a {
   border-color: transparent #ff5e3a transparent transparent;
   transform: skew(22deg) !important;
 }
+.cid-rZqalB3CUR .mbr-section-subtitle,
+.cid-rZqalB3CUR .mbr-section-btn DIV {
+  text-align: left;
+}
 .cid-rZqalT6jOx {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -1703,6 +1714,10 @@ a {
 }
 .cid-rZqalT6jOx .card .wrapper .buttons-wrap .mbr-section-btn .btn.btn-success-outline:hover {
   color: #000000;
+}
+.cid-rZqalT6jOx .card .wrapper .mbr-text,
+.cid-rZqalT6jOx .mbr-section-btn {
+  text-align: left;
 }
 .cid-rZqanq7PEg {
   padding-top: 75px;
@@ -1922,6 +1937,10 @@ a {
   border-width: 0 15px 12px 0;
   border-color: transparent #ff5e3a transparent transparent;
   transform: skew(22deg) !important;
+}
+.cid-rZqaoEML6U .mbr-section-subtitle,
+.cid-rZqaoEML6U .mbr-section-btn {
+  text-align: left;
 }
 .cid-rZqapkr5JT {
   background-image: url("../../../assets/images/background2.jpg");
