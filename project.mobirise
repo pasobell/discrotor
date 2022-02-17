@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "carm4",
       "title": "CarM4",
@@ -46,7 +46,7 @@
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "68vmdvmduh",
+    "mbrsiteDomain": "j8tab6qsfv",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
