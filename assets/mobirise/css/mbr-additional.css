@@ -1338,6 +1338,77 @@ a {
   background: #0b1d32;
   color: initial;
 }
+.cid-sXK0iPBB4I {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-sXK0iPBB4I .link-align {
+  width: 100%;
+}
+.cid-sXK0iPBB4I .link-wrap {
+  display: inline-block;
+}
+.cid-sXK0iPBB4I .link {
+  position: relative;
+  cursor: pointer;
+  width: fit-content;
+  letter-spacing: 1px;
+  margin-left: 80px;
+  color: #ffffff;
+}
+.cid-sXK0iPBB4I .wrap {
+  transform: matrix3d(0.99863, -0.052336, 0, 0, 0.052336, 0.99863, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform-origin: 50% 50% 0px;
+}
+.cid-sXK0iPBB4I .wrap .mask {
+  background: #ff5e3a;
+  background: linear-gradient(#ff5e3a 0%, #ff653c 69%, #ff4e3c 100%);
+  display: flex;
+  z-index: 8;
+  visibility: inherit;
+  transition: none 0s ease 0s;
+  text-align: inherit;
+  line-height: 1.05;
+  border-width: 0px;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 17px;
+  white-space: nowrap;
+  min-height: 88px;
+  width: 100%;
+  max-height: 100px;
+  opacity: 1;
+  transform: matrix3d(1, 0, 0, 0, -0.275637, 0.961262, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform-origin: 50% 50% 0px;
+}
+@media (max-width: 992px) {
+  .cid-sXK0iPBB4I .wrap .mask {
+    background: none;
+    min-height: auto;
+  }
+}
+.cid-sXK0iPBB4I .wrap .mbr-section-subtitle {
+  line-height: 1;
+}
+.cid-sXK0iPBB4I .wrap .price {
+  color: #fff000;
+}
+@media (min-width: 992px) {
+  .cid-sXK0iPBB4I .wrap .mbr-section-title.display-1 {
+    font-size: 100px;
+    line-height: 1;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sXK0iPBB4I .mbr-text {
+    text-align: right;
+  }
+}
+.cid-sXK0iPBB4I .mbr-text,
+.cid-sXK0iPBB4I .link-align {
+  text-align: center;
+}
 .cid-rZqakGdhKi {
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
@@ -2953,6 +3024,10 @@ a {
     text-align: right;
   }
 }
+.cid-sXHh7s0psZ .mbr-text,
+.cid-sXHh7s0psZ .link-align {
+  text-align: center;
+}
 .cid-sXHfOHmgq6 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3122,6 +3197,10 @@ a {
   .cid-sXH6YOcSGC * {
     text-align: center;
   }
+}
+.cid-sXH6YOcSGC .mbr-section-title,
+.cid-sXH6YOcSGC .col {
+  text-align: left;
 }
 .cid-sXGYgcjnhW {
   padding-top: 45px;
