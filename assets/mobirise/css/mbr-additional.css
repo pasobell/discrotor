@@ -1970,6 +1970,17 @@ a {
 .cid-rZqalT6jOx .mbr-section-btn {
   text-align: left;
 }
+.cid-t0Ar00Zfnt {
+  background-image: url("../../../assets/images/erea-20220320s-3-800x450.png");
+}
+.cid-t0Ar00Zfnt .block {
+  height: 800px;
+}
+@media (max-width: 992px) {
+  .cid-t0Ar00Zfnt .block {
+    height: 400px;
+  }
+}
 .cid-rZqaoEML6U {
   padding-top: 90px;
   padding-bottom: 90px;
